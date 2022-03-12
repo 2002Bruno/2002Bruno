@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2002Bruno
 - 👀 I’m interested in  aprender desenvolvimento web com java 
-- 🌱 I’m currently learning a desenvolver projeto  com spring e angular
+- 🌱 I’m currently learning a desenvolver projeto  com Spring e Angular
 - 📫 How to reach me: (61) 98181-2342
 
 <!---
