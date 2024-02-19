@@ -1,16 +1,35 @@
-### Hi there 👋
+# Olá, eu sou o Bruno 😁
 
-<!--
-**2002Bruno/2002Bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Meu nome é Bruno Mikael, sou estudante de desenvolvimento de software, apaixonado por computador, FullStack utilizando as tecnologias Java e Angular, atualmente trabalhando como freelancer, 2 anos de experiência dentro do mercado da tecnologia.
 
-Here are some ideas to get you started:
+## 💻 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Trabalho com desenvolvimento de software a mais de dois anos utilizando as tecnologias Java 8+ (Spring Boot) e Angular 8+ (PrimeNG e Angular Material) com criação de endpoints, mapeamento das Entidades do banco de dados, repositórios para persistência de dados no banco, classes de serviço para implementação das régras de negócio, correções de Bugs, geração de relatórios utilizando a biblioteca jasper reports, enums, consumo das API's pelos arquivos de serviço do angular, tudo isso utilizando as metodologias ágeis do SCRUM.
+
+## 🛠 Ferramentas utilizadas no meu dia a dia
+
+#### • IntelliJ IDEA
+#### • WebStorm IDEA
+#### • Git
+#### • GitHub
+#### • Postman
+
+## 📝 Competencias
+
+#### Habilidades em linguagens de programação.
+#### Resolução de problemas
+#### Aprendizado contínuo
+#### Flexibilidade
+#### Criatividade
+#### Resiliência
+#### Foco em resultados
+
+## 🚧 Projetos pessoais
+
+#### HelpDesk: Desenvolvido para controle de chamados para suporte, utilizando o angular 13.2.0 e Java na versão 17 com autenticação utilizando a biblioteca do Spring Security e JWT Token.
+
+#### link do projeto: https://github.com/2002Bruno/HelpDesk
+
+#### angular-spring: Projeto desenvolvido para gerenciar equipes de futebol utilizando angular 12 e Spring com listagem, de técnicos e criação de times.
+
+#### link do projeto: https://github.com/DalthonMike/angular-spring
