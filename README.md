@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno 😁
 
-#### Meu nome é Bruno Mikael, sou estudante de desenvolvimento de software, apaixonado por computador, FullStack utilizando as tecnologias Java e Angular, atualmente trabalhando como freelancer, 2 anos de experiência dentro do mercado da tecnologia.
+#### Meu nome é Bruno Mikael, sou estudante de desenvolvimento de software, apaixonado por tecnologia, desenvolvedor FullStack utilizando as tecnologias Java(8+) com spring boot e Angular(8+), atualmente trabalhando como freelancer, 3 anos de experiência dentro do mercado da tecnologia.
 
 ## 💻 Expertise
 
@@ -13,6 +13,9 @@
 #### • Git
 #### • GitHub
 #### • Postman
+#### • Swagger
+#### • Jenkins
+#### • Azure
 
 ## 📝 Competencias
 
